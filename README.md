@@ -4,7 +4,6 @@ It-mentors - service what is help to connect mentor and mentee for study IT-tech
 ## Version
 - node@5.\*.\*
 - npm@3.\*.\*
-- nvm@0.\*.\*
 - mongodb@2.6.\*
 
 ## How to Install
@@ -43,7 +42,7 @@ Close and reopen your terminal to start using nvm
 After that install [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)  
 Run in terminal
 ```
-$ nvm install node
+$ nvm install 5
 ```
 Check install:
 ```
