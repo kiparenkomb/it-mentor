@@ -8,6 +8,7 @@ It-mentors - service what is help to connect mentor and mentee for study IT-tech
 - mongodb@2.6.\*
 
 ## How to Install
+For debian-like OS:  
 Update your OS...
 ```
 $ sudo apt-get update
