@@ -21,8 +21,7 @@ tcp        0      0 127.0.0.1:27017         0.0.0.0:*               LISTEN      
 ```
 
 ### Install Node and NPM
-Install [NVM](https://github.com/creationix/nvm) first
-
+Install [NVM](https://github.com/creationix/nvm) first  
 Go to [NVM GitHub repo](https://github.com/creationix/nvm) and follow the instruction or just put this command in your terminal :smile:  
 ```
 $ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.1/install.sh | bash
