@@ -1,8 +1,14 @@
 # it-mentor
 It-mentors - service what is help to connect mentor and mentee for study IT-technology.
 
+## Version
+- node@5.\*.\*
+- npm@3.\*.\*
+- nvm@0.\*.\*
+- mongodb@2.6.\*
+
 ## How to Install
-Update your OS... :smiley:
+Update your OS...
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
@@ -20,13 +26,19 @@ Output must looks like that:
 tcp        0      0 127.0.0.1:27017         0.0.0.0:*               LISTEN      4306/mongod
 ```
 
+For Windows [click the link](https://docs.mongodb.com/v3.0/tutorial/install-mongodb-on-windows/)
+
 ### Install Node and NPM
 Install [NVM](https://github.com/creationix/nvm) first  
-Go to [NVM GitHub repo](https://github.com/creationix/nvm) and follow the instruction or just put this command in your terminal :smile:  
+For Windows [click the link](https://github.com/coreybutler/nvm-windows)  
+For debian-like OS:
+
+Go to [NVM GitHub repo](https://github.com/creationix/nvm) and follow the instruction or just put this command in your terminal  
 ```
 $ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.1/install.sh | bash
 ```
-Close and reopen your terminal to start using nvm  
+Close and reopen your terminal to start using nvm
+
 After that install [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)  
 Run in terminal
 ```
@@ -45,13 +57,13 @@ $ npm i -g gulp-cli
 ```
 ### Install Git
 Install [git](https://git-scm.com)  
+For Windows [click the link](https://git-scm.com/download/win)  
 For debian-like OS:
 ```
 $ sudo apt-get install git
 ```
-For Windows [click the link](https://git-scm.com/download/win)
 
-### Clone project :smile:
+### Clone project
 Write next commands in terminal:
 ```
 $ mkdir path/to/projects/folder
