@@ -44,7 +44,7 @@ $ npm i -g bower
 $ npm i -g gulp-cli
 ```
 ### Install Git
-Install [git](https://git-scm.com)
+Install [git](https://git-scm.com)  
 For debian-like OS:
 ```
 $ sudo apt-get install git
