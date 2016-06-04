@@ -1,12 +1,15 @@
 # it-mentor
 It-mentors - service what is help to connect mentor and mentee for study IT-technology.
 
-## Version
+## Technologies
 - node@5.\*.\*
 - npm@3.\*.\*
-- mongodb@2.6.\*
+- mongodb@2.\*.\*
 
-## How to Install
+## Prerequirements
+Make sure that your OS is up to date and MongoDB is installed.  
+If no - make next steps:
+
 For debian-like OS:  
 Update your OS...
 ```
@@ -27,6 +30,9 @@ tcp        0      0 127.0.0.1:27017         0.0.0.0:*               LISTEN      
 ```
 
 For Windows [click the link](https://docs.mongodb.com/v3.0/tutorial/install-mongodb-on-windows/)
+
+
+## How to Install
 
 ### Install Node and NPM
 Install [NVM](https://github.com/creationix/nvm) first  
